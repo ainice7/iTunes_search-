@@ -1,0 +1,32 @@
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.read-link {
+    float: right;
+    color: blue;
+}
+
+.clip-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-control-prev {
+    left: -15%;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    background: rgba(0,0,0, .5);
+}
+
+.carousel-control-next {
+    right: -15%;
+}
